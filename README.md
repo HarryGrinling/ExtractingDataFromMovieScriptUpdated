@@ -4,8 +4,10 @@ Script extraction was chosen to keep with the theme..
 
 Note: image file must be rasterized--no vector images--.jpg, .png, .bmp, .tiff, and .gif are all acceptable formats.
 
-     also checks for edge cases such as improper file types and too small of an image < 500x500.
+also checks for edge cases such as improper file types and too small of an image < 500x500.
 
-    TO RUN THIS PROGRAM: Add your OpenAI key (line 23) and make sure program is in the same folder as images.
+TO RUN THIS PROGRAM: Add your OpenAI key (line 23) and make sure program is in the same folder as images.
+
+Put your Open API key in a .env file in format OPENAI_API_KEY=
 
 Runs on Mac, Windows and Liux and will check for dependecies
